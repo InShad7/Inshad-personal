@@ -7,7 +7,7 @@
 ## :sassy_man:  About me
 - :technologist: A passionate `Self-Learner`
 - :student: I’m currently Focusing : `Flutter` and `DART`.
-- 👨‍💻 Personal Website [https://shebin-pr.github.io/Shebin-PR/](https://shebin-pr.github.io/Shebin-PR/)
+- 👨‍💻 Personal Website [https://inshad7.github.io/Inshad-personal/](https://inshad7.github.io/Inshad-personal/)
 - 📫 How to reach me: inshadichu7@gmail.com
 
 
