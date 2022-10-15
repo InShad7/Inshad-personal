@@ -42,7 +42,7 @@
 
 <br/>
 
-[website]: https://shebin-pr.github.io/Shebin-PR/
+[website]: https://inshad7.github.io/Inshad-personal/
 [twitter]: https://twitter.com/InshadIchu
 [instagram]: https://instagram.com/_the.bug?igshid=YmMyMTA2M2Y=
 [linkedin]: https://www.linkedin.com/in/inshad-kadharkutty-24663514b/
